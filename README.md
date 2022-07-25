@@ -1,1 +1,1 @@
-# Minecraft-server-creation-tool-MSCAT-
+# Minecraft-server-creation-tool-MSCAT
