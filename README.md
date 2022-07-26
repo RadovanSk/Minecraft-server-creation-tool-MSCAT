@@ -2,7 +2,7 @@
 MSCAT is a tool that creates .bat file for your .jar minecraft server file according to JVM arguments you have picked. I made this tool as a homework for school and ended up polishing it a little bit after the success with the homework. The intention of this tool is to make it easier for people who do not know about JVM arguments to make a server for themselves and their friends. All JVM arguments are briefly explained when hovering your mouse over "(?)" symbols. All default values are already set in the code itself so it's impossible to ruin the .bat file without doing anything except -XX:ParallelGCThreads which can't have default value due to varying hardware. You'll have to put in your own value in the app once G1 Garbage Collector is turned on.
 
 ## How to use it
-1. Download all the files and run the .exe file. 
+1. Download the MSCAT folder, extract it and run the .exe file. 
 2. Type in/check your desired values for JVM arguments.
 3. Click the "Create .bat file" button.
 
